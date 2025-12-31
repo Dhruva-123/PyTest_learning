@@ -1,0 +1,1 @@
+This repo contains the details of the learning path I chose to learn PyTests. I have shared the resources that I used in the 'resources' file in the repo.
